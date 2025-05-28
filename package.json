@@ -1,0 +1,27 @@
+{
+  "name": "isdesktop-visible",
+  "version": "1.0.0",
+  "description": "Detect when the Windows desktop is visible or hidden (like Show Desktop)",
+  "main": "index.js",
+  "bin": {},
+  "scripts": {},
+  "keywords": [
+    "windows",
+    "desktop",
+    "visibility",
+    "win32",
+    "show-desktop",
+    "node-native"
+  ],
+  "author": "nstechbytes",
+  "license": "MIT",
+  "os": ["win32"],
+          "homepage": "https://github.com/NSTechBytes/isdesktop-visible#readme",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/NSTechBytes/isdesktop-visible.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NSTechBytes/isdesktop-visible/issues"
+  }
+}
